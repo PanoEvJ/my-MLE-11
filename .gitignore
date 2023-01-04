@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-assignments/week-03-huggingface-fastapi/.env
+**/**/.env
 
 # Spyder project settings
 .spyderproject
