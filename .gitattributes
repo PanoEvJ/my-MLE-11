@@ -1,0 +1,7 @@
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/ filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/tokenizer_config.json filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/tokenizer.json filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/config.json filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model/t5small/special_tokens_map.json filter=lfs diff=lfs merge=lfs -text
+assignments/week-03-huggingface-fastapi/fast_api_tutorial/app/model filter=lfs diff=lfs merge=lfs -text
